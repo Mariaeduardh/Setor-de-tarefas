@@ -13,3 +13,5 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+   Add: Executado com sucesso, alteração em src/pages/tarefa/login/index.jsx
